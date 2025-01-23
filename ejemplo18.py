@@ -14,3 +14,4 @@ if nnotas >=2:
     print(f"El promedio es: {promedio:.2f}")
 else:
     print("¡ERROR...Se debe ingresar mínimo 2 notas")
+
